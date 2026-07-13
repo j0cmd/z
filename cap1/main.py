@@ -30,3 +30,4 @@ print(choice(deck))  # usnado uma função aleatoria
 
 # for carta in sorted(deck):  # iterar cartas e ordenar com sorted
 #   print(carta)
+# comitando no celular
