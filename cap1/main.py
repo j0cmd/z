@@ -1,6 +1,6 @@
 # Exemplo 1: um baralho como uma sequencia de cartas
 #
-
+"""
 import collections
 from random import choice
 
@@ -27,7 +27,7 @@ print(beer_card)
 print(f"O baralho tem {len(deck)} cartas")
 print(deck[:3])  # usando fatiamento
 print(choice(deck))  # usnado uma função aleatoria
-
+"""
 # for carta in sorted(deck):  # iterar cartas e ordenar com sorted
 #   print(carta)
 # comitando no celular
